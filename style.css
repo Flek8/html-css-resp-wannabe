@@ -81,6 +81,9 @@ img {
     padding: 0;
     box-sizing: border-box;
   }
+  body{
+    width: 100vw;
+  }
   #lezioni .row>.left,
   #lezioni .row>.right {
     float: none;
